@@ -70,4 +70,8 @@
 
 .header__optionBasket__link {
   color: white;
+  height: 25px;
+  object-fit: contain;
 }
+
+
